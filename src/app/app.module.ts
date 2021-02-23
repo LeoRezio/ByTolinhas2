@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { PlayersComponent } from './players/players.component';
 import { PlayerComponent } from './players/player/player.component';
+import { TopBannerComponent } from './top-banner/top-banner.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TopBarComponent,
     PlayersComponent,
-    PlayerComponent
+    PlayerComponent,
+    TopBannerComponent
   ],
   imports: [
     BrowserModule,
