@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { players } from '../heros';
 
 @Component({
   selector: 'app-players',
