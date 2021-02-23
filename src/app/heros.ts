@@ -8,7 +8,7 @@ export const players: Player[] = [
     "LEOREZIO",
     ["cardtank", "../assets/images/Icons/tnk-azul-semborda.png"],
     "https://www.instagram.com/leorezio/",
-    [29,12,2019],
+    "29/12/2019",
     'Brasília/DF'),
     new Player(
      2,
@@ -17,7 +17,7 @@ export const players: Player[] = [
     "lehboss",
     ["cardsup", "../assets/images/Icons/sup-rosa-semborda.png"],
     "https://www.instagram.com/xo_lehboss/",
-    [12,12,12],
+    "Fundador",
     'São Paulo/SP'
         ),
     new Player(
@@ -27,7 +27,7 @@ export const players: Player[] = [
     "settedan",
     ["carddps","../assets/images/Icons/dps-amarelo-semborda.png"],
     "https://www.instagram.com/danielsette/",
-    [12,12,12],
+    "Co-Fundador",
     'São Paulo/SP'
     )
 ] 

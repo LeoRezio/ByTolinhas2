@@ -6,7 +6,7 @@ export class Player {
         public nick: string,
         public role: [ string, string ], 
         public instagram: string,
-        public date: [ number, number, number],
+        public date: string,
         public city: string) {
     }
 }

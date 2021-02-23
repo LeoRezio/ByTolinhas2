@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Player } from 'src/app/shared/player.model';
-import { players } from '../../heros'
+import { players } from 'src/app/heros';
 
 @Component({
   selector: 'app-player',
