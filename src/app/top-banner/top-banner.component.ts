@@ -1,12 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-    selector: 'app-top-banner',
-    templateUrl: 'top-banner.component.html'
+  selector: 'app-top-banner',
+  templateUrl: 'top-banner.component.html'
 })
-
 export class TopBannerComponent implements OnInit {
-    constructor() { }
+  constructor() {}
 
-    ngOnInit() { }
+  ngOnInit() {}
 }

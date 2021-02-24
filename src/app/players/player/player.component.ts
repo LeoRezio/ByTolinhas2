@@ -8,9 +8,7 @@ import { players } from 'src/app/heros';
 })
 export class PlayerComponent implements OnInit {
   player = players;
-  constructor() { }
+  constructor() {}
 
-  ngOnInit(): void {
-  }
-
+  ngOnInit(): void {}
 }
