@@ -15,6 +15,7 @@ import { CarouselModule } from 'ngx-owl-carousel-o';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ConquestsComponent } from './conquests/conquests.component';
 import { ConquestComponent } from './conquests/conquest/conquest.component';
+import { SocialComponent } from './social/social.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import { ConquestComponent } from './conquests/conquest/conquest.component';
     GamesComponent,
     GameComponent,
     ConquestsComponent,
-    ConquestComponent
+    ConquestComponent,
+    SocialComponent
   ],
   imports: [
     BrowserModule,
