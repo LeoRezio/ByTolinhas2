@@ -15,7 +15,7 @@ export class GameComponent implements OnInit {
     center: true,
     margin: 20,
     nav: true,
-    dots: true,
+    dots: false,
     navText: [
       "<div class='btn-prev controlsize'></div>",
       "<div class='btn-next controlsize'></div>"
